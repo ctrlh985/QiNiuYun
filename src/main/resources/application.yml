@@ -1,0 +1,9 @@
+qiniu:
+  accessKey: Sg5BIBZ4dwZaMaMhkrBhjxEB5IBOx1T5Zm5od-Xy
+  secretKey: RFQvBbP9l1ks7vnu_5uXqzu9DlxfEZ_0FWwiJ50L
+  # 对象储存
+  bucket: ctrl985 #空间名称
+  zone: huanan # 存储区域
+  domain: qr6yym6d4.hn-bkt.clouddn.com # 访问域名
+server:
+  port: 8998
